@@ -1,7 +1,7 @@
 package br.ufs.dcomp.ExemploThreadsJava;
 
 /**
- * 
+ * Gerenciador de Lembretes
  *
  */
 public class Gerenciador 
