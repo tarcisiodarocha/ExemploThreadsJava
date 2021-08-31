@@ -1,7 +1,7 @@
 package br.ufs.dcomp.ExemploThreadsJava;
 
 /**
- * 
+ * Classe que representa os lembretes como threads
  *
  */
 public class Lembrete extends Thread 
